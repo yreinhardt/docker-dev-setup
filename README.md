@@ -6,7 +6,7 @@ In this example project a .NET 6 api, a Postgres db and pgAdmin are containerize
 - Requirements: Docker, Docker-Compose, .Net
 - Clone repository
 ```bash
-git clone
+git clone https://github.com/yreinhardt/docker-dev-setup.git
 ```
 - Build services
 ```bash
